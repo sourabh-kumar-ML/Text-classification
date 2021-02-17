@@ -3,8 +3,8 @@ Feature reduction then comparing various models
 
 Text Classification, https://www.kaggle.com/khandalaryan/liar-preprocessed-dataset
   * Feature extraction
-    a) Word 2 vec
-    b) Tf-idf
+    * a) Word 2 vec
+    * b) Tf-idf
  II. Classification
    a) FastText
    b) RNN with packed padded sequence
