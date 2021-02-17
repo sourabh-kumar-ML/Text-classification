@@ -394,15 +394,13 @@ model = OPTICS(min_samples=6)
 # In[ ]:
 
 
-model.fit(X_train)
 
 
 # In[ ]:
 
 
-pred_train = model.predict(X_train)
-pred_test = model.predict(X_test)
-
+pred_train = model.fit_predict(X_train)
+pred_test = model.fit_predict(X_test)
 
 # In[ ]:
 
