@@ -2,7 +2,7 @@
 Feature reduction then comparing various models
 
 Text Classification, https://www.kaggle.com/khandalaryan/liar-preprocessed-dataset
-  I. Feature extraction
+  * Feature extraction
     a) Word 2 vec
     b) Tf-idf
  II. Classification
