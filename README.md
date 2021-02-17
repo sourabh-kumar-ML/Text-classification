@@ -20,6 +20,6 @@ Text Classification, https://www.kaggle.com/khandalaryan/liar-preprocessed-datas
     l) OPTICS
     m) Spectral Clustering
     n) Gaussian Mixture Model
-
+ 
 
 I would suggest to use jupyter notebook as it is easy to debug any issue. For any assistance feel free to mail me at sourabhcharlie143@gmail.com
