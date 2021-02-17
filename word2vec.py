@@ -11,6 +11,7 @@ import gensim
 import nltk as nl
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.metrics import accuracy_score
+from sklearn.mixture import GaussianMixture
 from sklearn.cluster import Birch,DBSCAN,KMeans,MiniBatchKMeans,MeanShift,OPTICS,SpectralClustering
 
 from tensorflow.python.keras.preprocessing.sequence import pad_sequences
